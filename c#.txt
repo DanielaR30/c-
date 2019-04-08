@@ -1,0 +1,35 @@
+using= import libreria
+clase 
+método ...arreglo string
+
+
+
+console.writeline("hello word")
+clase.metodo(string)
+
+using system;
+
+namespace appcharp1
+{
+ class program
+{
+statid void main(string[] args)
+{
+console.writeline("hello word!");
+int edad=5; ---varible---fuertemente tipado-----
+string nombre; ---tipo cadena-----
+console.writeline("introduzca su nombre");
+nombre= console. readline();
+console.writeline($"bienvenido {nombre} tienes{edad}años"); ---interpolación--
+console.readline();
+}
+}
+}
+
+
+
+
+
+
+
+
